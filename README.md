@@ -1,4 +1,4 @@
-<h1 align="center">cangu>cang
+<h1 align="center">cangu>
 <p align="center">
   <b>Data Analytics | Business Data Analytics Student</b><br>
   <i>Data-driven mindset • Insight-focused thinking</i>
