@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h2></h2>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+Name+is+Khanh+Nguyen;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+My+Name+is+Cangudepzai;" />
 </h1>
 <h3 align="center">A passionate Data Scientist from Vietnam</h3>
 <img align="right" alt="Coding" width ="260" height="180" frameBorder="0"src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952keetaio0akg0jfwqbo1zd3hn7tl8x5rj8qkv9p8n&ep=v1_gifs_search&rid=giphy.gif&ct=g">
