@@ -71,11 +71,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=7B2FF7&width=190&height=40&vCenter=true&repeat=false&lines=SNAKE+MODE" alt="SNAKE MODE"/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake-dark.svg" width="100%"/>
-  </picture>
+  <img src="https://git-hub-snake.vercel.app/api/snake?username=xtames910&theme=neon" width="100%" alt="contribution snake"/>
 </div>
 
 <br/>
