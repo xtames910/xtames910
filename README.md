@@ -12,7 +12,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-### 👩‍💻 Business Data Analytics Student
+### 👩‍💻 About me
 
 - 🔭 Currently learning **SQL, Python, Machine Learning, BI**
 - 💬 Ask me about **Data Analysis, Python, SQL, Excel...**
