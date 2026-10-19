@@ -1,25 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:5C94FC,100:9AD7FF&height=210&section=header&text=Hi%20there%2C%20I'm%20Phuong&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20ML%20Explorer%20%C2%B7%20Insight%20Hunter&descSize=18&descAlignY=60" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:049CD8,50:5C94FC,100:9AD7FF&height=130&section=header" width="100%" alt="sky"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2400&pause=900&color=4DA3FF&width=640&height=50&vCenter=true&center=true&lines=Player+1+%C2%B7+Phuong;Class+%C2%B7+Data+%26+ML+Explorer;Goal+%C2%B7+Turn+data+into+insight;Press+start+to+continue" alt="title"/>
+<img alt="title" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=21&duration=1800&pause=100000&color=FFFFFF&width=493&height=51&vCenter=true&center=true&background=E52521&repeat=false&lines=HI+THERE%2C+I%27M+PHUONG%21"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=14&duration=3000&pause=2500&color=F59E0B&width=480&height=30&vCenter=true&center=true&lines=SCORE+000094++%C2%B7++LIVES+x3++%C2%B7++LEVEL+01" alt="hud"/>
+<img alt="subtitle" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=2400&pause=900&color=FBD000&width=398&height=42&vCenter=true&center=true&background=0B1B3A&lines=PLAYER+1+%C2%B7+PHUONG;CLASS+%C2%B7+DATA+%26+ML+EXPLORER;GOAL+%C2%B7+TURN+DATA+INTO+INSIGHT;PRESS+START+TO+CONTINUE"/>
+
+<br/>
+
+<img alt="hud" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=9&duration=3000&pause=2500&color=FFFFFF&width=392&height=39&vCenter=true&center=true&background=43B047&lines=SCORE+000094++%C2%B7++LIVES+X3++%C2%B7++LEVEL+01"/>
 
 <br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-phuong-5b0a08392/)
 [![Email](https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuongbtl0910@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtames910)
-[![Open to](https://img.shields.io/badge/Open%20to-Data%20%26%20ML%20roles-2E9B3E?style=for-the-badge)](mailto:phuongbtl0910@gmail.com)
+[![Open to](https://img.shields.io/badge/Open%20to-Data%20%26%20ML%20roles-43B047?style=for-the-badge)](mailto:phuongbtl0910@gmail.com)
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=255&height=38&vCenter=true&center=true&repeat=false&background=3B82F6&lines=Level+1+%C2%B7+About" alt="Level 1 · About"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=197&height=40&vCenter=true&center=true&repeat=false&background=049CD8&lines=LEVEL+1+%C2%B7+ABOUT" alt="Level 1 · About"/></div>
 
 - 📊 Every problem is a pipeline: define the target, split without leakage, benchmark, then audit
 - 🔭 Exploring **time-series deep learning**, **anomaly detection** and **responsible ML**
@@ -30,7 +34,7 @@
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=203&height=38&vCenter=true&center=true&repeat=false&background=F59E0B&lines=High+Scores" alt="High Scores"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=156&height=40&vCenter=true&center=true&repeat=false&background=F5A800&lines=HIGH+SCORES" alt="High Scores"/></div>
 
 <div align="center">
 
@@ -42,7 +46,7 @@
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=138&height=38&vCenter=true&center=true&repeat=false&background=2E9B3E&lines=Stages" alt="Stages"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=105&height=40&vCenter=true&center=true&repeat=false&background=43B047&lines=STAGES" alt="Stages"/></div>
 
 | Stage | Stack | Boss defeated |
 | :-- | :-- | :-- |
@@ -52,7 +56,7 @@
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=177&height=38&vCenter=true&center=true&repeat=false&background=C2410C&lines=Power-ups" alt="Power-ups"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=135&height=40&vCenter=true&center=true&repeat=false&background=E52521&lines=POWER-UPS" alt="Power-ups"/></div>
 
 <div align="center">
 
@@ -68,19 +72,19 @@
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=190&height=38&vCenter=true&center=true&repeat=false&background=3B82F6&lines=Snake+Mode" alt="Snake Mode"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=146&height=40&vCenter=true&center=true&repeat=false&background=049CD8&lines=SNAKE+MODE" alt="Snake Mode"/></div>
 
 <div align="center">
-  <img src="https://git-hub-snake.vercel.app/api/snake?username=xtames910&theme=ocean" width="100%" alt="contribution snake"/>
+  <img src="https://git-hub-snake.vercel.app/api/snake?username=xtames910&theme=neon" width="100%" alt="contribution snake"/>
 </div>
 
 <br/>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=17&duration=1400&pause=100000&color=FFFFFF&width=216&height=38&vCenter=true&center=true&repeat=false&background=F59E0B&lines=Player+Stats" alt="Player Stats"/></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=10&duration=1400&pause=100000&color=FFFFFF&width=166&height=40&vCenter=true&center=true&repeat=false&background=F5A800&lines=PLAYER+STATS" alt="Player Stats"/></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtames910&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0B1B3A&title_color=FFC83D&text_color=FFFFFF&icon_color=5C94FC&border_color=2563EB&card_width=400" width="48%" alt="stats (all-time commits)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtames910&layout=compact&hide_border=false&bg_color=0B1B3A&title_color=FFC83D&text_color=FFFFFF&border_color=2563EB&card_width=400" width="48%" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xtames910&show_icons=true&include_all_commits=true&hide_border=false&bg_color=0B1B3A&title_color=FBD000&text_color=FFFFFF&icon_color=5C94FC&border_color=049CD8&card_width=400" width="48%" alt="stats (all-time commits)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtames910&layout=compact&hide_border=false&bg_color=0B1B3A&title_color=FBD000&text_color=FFFFFF&border_color=049CD8&card_width=400" width="48%" alt="languages"/>
   <br/>
   <img src="https://streak-stats.demolab.com/?user=xtames910&background=0B1B3A&ring=FFC83D&fire=FF8A00&currStreakLabel=5C94FC&sideLabels=5C94FC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9FB3D9&border=2563EB" width="70%" alt="streak (all-time total)"/>
   <br/><br/>
@@ -91,7 +95,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2400&pause=900&color=F59E0B&width=520&height=40&vCenter=true&center=true&lines=Continue%3F+3+%C2%B7+2+%C2%B7+1;Insert+coin+to+hire+me;Thanks+for+playing" alt="continue"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=2400&pause=900&color=F5A800&width=313&height=42&vCenter=true&center=true&lines=CONTINUE%3F+3+%C2%B7+2+%C2%B7+1;INSERT+COIN+TO+HIRE+ME;THANKS+FOR+PLAYING" alt="continue"/>
 
 <sub><i>"In God we trust. All others must bring data."</i></sub>
 
