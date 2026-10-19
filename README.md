@@ -1,86 +1,98 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="cangu - Business Data Analytics student"/>
+<img src="./banner.svg" alt="xtames910 animated banner" width="100%"/>
+
+<a href="https://github.com/xtames910/xtames910">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Data+Analytics+%7C+Business+Data+Analytics+Student;Turning+messy+data+into+insights;SELECT+*+FROM+coffee+WHERE+mood+%3D+'tired'%3B;It+works+on+my+machine+%F0%9F%A4%B7" alt="Typing SVG" />
+</a>
 
 <br/>
 
-![Status](https://img.shields.io/badge/Status-Open%20to%20internships%20%F0%9F%99%8F-22c55e?style=for-the-badge)
-![Mood](https://img.shields.io/badge/Mood-Debugging-f97316?style=for-the-badge)
-![Fuel](https://img.shields.io/badge/Fuel-Coffee%20%E2%98%95-6f4e37?style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=xtames910&label=Profile%20Views&color=1f6feb&style=flat-square" alt="Profile views"/>
 
 </div>
 
-## 🧠 `whoami`
+---
+
+## 👤 Profile
+
+🎓 Business Data Analytics student with strong interest in
+**Data Analysis • Machine Learning • Business Intelligence**
+
+💡 Enjoy working with data to uncover patterns, trends, and insights
+📊 Familiar with **data cleaning, visualization, and modeling**
 
 ```python
-class Cangu:
-    role   = "Business Data Analytics student"
-    based  = "Vietnam"
-    fuel   = ["coffee", "deadlines", "Ctrl+Z"]
-    skills = ["Python", "SQL", "EDA", "Machine Learning", "Dashboards"]
+class Phuong:
+    role    = "Data / AI intern (in progress)"
+    stack   = ["Python", "SQL", "Pandas", "Scikit-learn", "Tableau"]
+    fuel    = "coffee"
+    bugs    = "feature, not bug"
 
-    def solve(self, problem):
-        try:
-            return self.google(problem) or self.stackoverflow(problem)
-        except Exception:
-            return "restart the kernel and pretend nothing happened"
-
-    def goal(self):
-        return "land an internship before my laptop fan quits"
+    def work(self):
+        while self.has_coffee:
+            self.clean_data()
+            self.train_model()
+            self.pray_for_accuracy()
 ```
 
-> 💬 Ask me about **Python, SQL, EDA, ML**... or why my notebook worked yesterday but not today.
+---
 
-## 🛠️ Stuff I Google daily
+## 🛠 Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sql,excel,tableau,pandas,numpy,github,vscode" alt="skills"/>
+</p>
+
+---
+
+## 📌 Selected Projects
+
+- 🛍️ **Customer Segmentation using K-means**
+- 🧾 **Shopping Trends & Customer Behavior Analysis**
+- 📈 **Vietnam Stock Market Forecasting**
+- 🔍 **Exploratory Data Analysis & Visualization**
+- 💰 **[Adult Income](https://github.com/xtames910/Adult-Income)**: predicting income with ML
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/xtames910/xtames910/output/github-snake-dark.svg" />
+  </picture>
+  <br/>
+  <sub>🐍 The snake eats my commits so I have to keep coding.</sub>
 </div>
 
-## 📌 Projects I'm (mostly) proud of
+---
 
-| Project | What it does | Honest description |
-|---|---|---|
-| [**Adult-Income**](https://github.com/xtames910/Adult-Income) | Predicts whether someone earns over $50K | Guessing who's rich. Spoiler: not me. Yet. |
-| [**finenet**](https://github.com/xtames910/finenet) | Stock price analysis & forecasting | Predicts the market so I can ignore it and buy high anyway |
-| [**sql-training**](https://github.com/xtames910/sql-training) | SQL practice | `SELECT * FROM my_skills WHERE bugs = 0;` → 0 rows returned |
-| **Customer Segmentation** | K-means clustering | Marie Kondo, but for shoppers |
-| **Shopping Trends Analysis** | Customer behavior EDA | Finding out why people click "Add to cart" at 2 AM |
-
-## 📊 Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="stats.svg" width="700" alt="developer stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xtames910&show_icons=true&theme=github_dark&hide_border=true" height="170" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtames910&layout=compact&theme=github_dark&hide_border=true" height="170" alt="top langs"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xtames910&theme=github-dark&hide_border=true" alt="streak"/>
 </div>
 
-## 🐍 My contribution graph (being eaten)
+---
 
-<div align="center">
-  <img src="snake.svg" width="100%" alt="snake eating the contribution graph"/>
-</div>
-
-## 📫 Hire me. Please.
+## 🔗 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20network%20(awkwardly)-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-phuong-5b0a08392/)
-[![GitHub](https://img.shields.io/badge/GitHub-Stalk%20me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtames910)
-[![Gmail](https://img.shields.io/badge/Gmail-Memes%20or%20job%20offers-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuongbtl0910@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/xtames910)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tunakage-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:phuongbtl0910@gmail.com)
 
 <br/>
 
-*"In God we trust. All others must bring data."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50%:1f6feb,100%:8957e5&height=100&section=footer" width="100%" alt="footer wave"/>
 
-*Correlation does not imply causation, but it does imply I need an internship.*
+<i>"In God we trust. All others must bring data."</i>
 
 </div>
