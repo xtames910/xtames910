@@ -29,12 +29,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+Every+problem+is+a+pipeline%3A+target%2C+split%2C+benchmark%2C+audit" alt="> Every problem is a pipeline: target, split, benchmark, audit"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+Exploring+time-series+deep+learning%2C+anomaly+detection%2C+responsible+ML" alt="> Exploring time-series deep learning, anomaly detection, responsible ML"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+A+fairness+check+goes+on+every+model+I+build" alt="> A fairness check goes on every model I build"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+Leveling+up+SQL+and+Tableau%2C+from+database+to+dashboard" alt="> Leveling up SQL and Tableau, from database to dashboard"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+Location%3A+Ha+Noi%2C+Vietnam" alt="> Location: Ha Noi, Vietnam"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=%3E+Power-up%3A+coffee.+Side+effect%3A+bugs+that+turn+into+features" alt="> Power-up: coffee. Side effect: bugs that turn into features"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=4DA3FF&width=916&height=202&multiline=true&repeat=false&lines=%3E+Every+problem+is+a+pipeline%3A+target%2C+split%2C+benchmark%2C+audit;%3E+Exploring+time-series+deep+learning%2C+anomaly+detection%2C+responsible+ML;%3E+A+fairness+check+goes+on+every+model+I+build;%3E+Leveling+up+SQL+and+Tableau%2C+from+database+to+dashboard;%3E+Location%3A+Ha+Noi%2C+Vietnam;%3E+Power-up%3A+coffee.+Side+effect%3A+bugs+that+turn+into+features" alt="> Every problem is a pipeline: target, split, benchmark, audit"/>
 
 <br/><br/>
 
@@ -42,10 +37,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=0.94+-+recall+on+ACB+anomalies+%28best+baseline+0.32%29" alt="0.94 - recall on ACB anomalies (best baseline 0.32)"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=86.69%25+-+income+accuracy%2C+AUC+0.924" alt="86.69% - income accuracy, AUC 0.924"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=0.004+-+sex+parity+gap%2C+down+from+0.154" alt="0.004 - sex parity gap, down from 0.154"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=50%2C000+-+Walmart+customers+in+4+segments" alt="50,000 - Walmart customers in 4 segments"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=21&duration=1100&pause=100000&color=F5A800&width=688&height=146&multiline=true&repeat=false&lines=0.94+-+recall+on+ACB+anomalies+%28best+baseline+0.32%29;86.69%25+-+income+accuracy%2C+AUC+0.924;0.004+-+sex+parity+gap%2C+down+from+0.154;50%2C000+-+Walmart+customers+in+4+segments" alt="0.94 - recall on ACB anomalies (best baseline 0.32)"/>
 
 <br/><br/>
 
@@ -54,30 +46,26 @@
 <br/>
 
 <a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=11&duration=1400&pause=100000&color=FFFFFF&width=260&height=38&vCenter=true&center=true&repeat=false&background=E52521&lines=STAGE+1+%3A+FINENET" alt="STAGE 1 : FINENET"/></a>
+
 <br/>
-<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Stock+anomaly+detection%2C+Vietnamese+market" alt="Stock anomaly detection, Vietnamese market"/></a><br/>
-<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Python+%7C+TensorFlow+%7C+statsmodels" alt="Python | TensorFlow | statsmodels"/></a><br/>
-<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Boss%3A+FineNet+%28dilated+CNN+%2B+BiGRU%29+on+ACB+Bank+prices" alt="Boss: FineNet (dilated CNN + BiGRU) on ACB Bank prices"/></a><br/>
-<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Caught+94%25+of+anomalies+at+1.0+sigma+vs+32%25+for+best+baseline" alt="Caught 94% of anomalies at 1.0 sigma vs 32% for best baseline"/></a>
+
+<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=4DA3FF&width=780&height=140&multiline=true&repeat=false&lines=Stock+anomaly+detection%2C+Vietnamese+market;Stack%3A+Python%2C+TensorFlow%2C+statsmodels;Boss%3A+FineNet+%28dilated+CNN+%2B+BiGRU%29+on+ACB+Bank+prices;Caught+94%25+of+anomalies+at+1.0+sigma+vs+32%25+for+best+baseline" alt="Stock anomaly detection, Vietnamese market"/></a>
 
 <br/><br/>
 
 <a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=11&duration=1400&pause=100000&color=FFFFFF&width=320&height=38&vCenter=true&center=true&repeat=false&background=049CD8&lines=STAGE+2+%3A+ADULT-INCOME" alt="STAGE 2 : ADULT-INCOME"/></a>
+
 <br/>
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Income+prediction+and+fairness+audit" alt="Income prediction and fairness audit"/></a><br/>
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=scikit-learn+%7C+Fairlearn+%7C+SHAP" alt="scikit-learn | Fairlearn | SHAP"/></a><br/>
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Boss%3A+leakage-safe+Random+Forest%2C+AUC+0.924" alt="Boss: leakage-safe Random Forest, AUC 0.924"/></a><br/>
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Parity+gap+0.154+to+0.004+for+2.2+pts+of+accuracy" alt="Parity gap 0.154 to 0.004 for 2.2 pts of accuracy"/></a><br/>
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=I+report+what+it+did+not+fix" alt="I report what it did not fix"/></a>
+
+<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=4DA3FF&width=631&height=171&multiline=true&repeat=false&lines=Income+prediction+and+fairness+audit;Stack%3A+scikit-learn%2C+Fairlearn%2C+SHAP;Boss%3A+leakage-safe+Random+Forest%2C+AUC+0.924;Parity+gap+0.154+to+0.004+for+2.2+pts+of+accuracy;I+report+what+it+did+not+fix" alt="Income prediction and fairness audit"/></a>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=11&duration=1400&pause=100000&color=FFFFFF&width=320&height=38&vCenter=true&center=true&repeat=false&background=43B047&lines=STAGE+3+%3A+SEGMENTATION" alt="STAGE 3 : SEGMENTATION"/>
+
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Customer+segmentation+on+Walmart+purchase+data" alt="Customer segmentation on Walmart purchase data"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Python+%7C+K-Means+%7C+PCA" alt="Python | K-Means | PCA"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Boss%3A+led+a+team+of+3%2C+50%2C000+customers+into+4+segments" alt="Boss: led a team of 3, 50,000 customers into 4 segments"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=43B047&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Each+with+a+retention+or+remarketing+move" alt="Each with a retention or remarketing move"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=4DA3FF&width=706&height=140&multiline=true&repeat=false&lines=Customer+segmentation+on+Walmart+purchase+data;Stack%3A+Python%2C+K-Means%2C+PCA;Boss%3A+led+a+team+of+3%2C+50%2C000+customers+into+4+segments;Each+with+a+retention+or+remarketing+move" alt="Customer segmentation on Walmart purchase data"/>
 
 <br/><br/>
 
@@ -89,13 +77,13 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=SHAP+%7C+Fairlearn+%7C+SciPy+%7C+Matplotlib+%7C+Seaborn" alt="SHAP | Fairlearn | SciPy | Matplotlib | Seaborn"/><br/>
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=4DA3FF&width=680&height=30&vCenter=true&center=true&repeat=false&lines=statsmodels+%7C+Excel+%7C+Tableau+%7C+Google+Colab" alt="statsmodels | Excel | Tableau | Google Colab"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=4DA3FF&width=656&height=78&multiline=true&repeat=false&lines=Also+in+my+bag%3A+SHAP%2C+Fairlearn%2C+SciPy%2C+Matplotlib%2C;Seaborn%2C+statsmodels%2C+Excel%2C+Tableau%2C+Google+Colab" alt="Also in my bag: SHAP, Fairlearn, SciPy, Matplotlib,"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://coursera.org/share/1052d4e2e8c62db46c92b1cdb9a899c4"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Cert%3A+Google+Data+Analytics+%28Coursera%29" alt="Cert: Google Data Analytics (Coursera)"/></a><br/>
-<a href="https://coursera.org/share/1793b19f01393786232477e5001f2e1b"><img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=22&duration=1400&pause=100000&color=F5A800&width=680&height=30&vCenter=true&center=true&repeat=false&lines=Cert%3A+Business+Intelligence+%28Coursera%29" alt="Cert: Business Intelligence (Coursera)"/></a>
+<a href="https://coursera.org/share/1052d4e2e8c62db46c92b1cdb9a899c4"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=F5A800&width=495&height=47&multiline=true&repeat=false&lines=Cert%3A+Google+Data+Analytics+%28Coursera%29" alt="Cert: Google Data Analytics (Coursera)"/></a>
+<br/>
+<a href="https://coursera.org/share/1793b19f01393786232477e5001f2e1b"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=20&duration=1100&pause=100000&color=F5A800&width=495&height=47&multiline=true&repeat=false&lines=Cert%3A+Business+Intelligence+%28Coursera%29" alt="Cert: Business Intelligence (Coursera)"/></a>
 
 <br/><br/>
 </div>
@@ -128,7 +116,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=12&duration=2400&pause=900&color=F5A800&width=313&height=42&vCenter=true&center=true&lines=CONTINUE%3F+3+%C2%B7+2+%C2%B7+1;INSERT+COIN+TO+HIRE+ME;THANKS+FOR+PLAYING" alt="continue"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=20&duration=2600&pause=3000&color=9FB3D9&width=520&height=36&vCenter=true&center=true&lines=%22In+God+we+trust.+All+others+must+bring+data.%22" alt="quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=400&size=20&duration=2600&pause=3000&color=9FB3D9&width=520&height=36&vCenter=true&center=true&lines=%22In+God+we+trust.+All+others+must+bring+data.%22" alt="quote"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:43A047,100:7CB342&height=130&section=footer" width="100%" alt="grass"/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=6D4C41&height=18&section=footer" width="100%" alt="ground"/>
