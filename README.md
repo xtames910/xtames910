@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="cangu - Business Data Analytics student"/>
+<img src="banner.svg" width="100%" alt="cangu - Business Data Analytics student"/>
 
 <br/>
 
@@ -60,13 +60,13 @@ class Cangu:
 ## 📊 Stats
 
 <div align="center">
-  <img src="assets/stats.svg" width="700" alt="developer stats"/>
+  <img src="stats.svg" width="700" alt="developer stats"/>
 </div>
 
 ## 🐍 My contribution graph (being eaten)
 
 <div align="center">
-  <img src="assets/snake.svg" width="100%" alt="snake eating the contribution graph"/>
+  <img src="snake.svg" width="100%" alt="snake eating the contribution graph"/>
 </div>
 
 ## 📫 Hire me. Please.
