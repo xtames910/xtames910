@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Lan Phương - Data Analytics"/>
+<img src="banner.svg" width="100%" alt="Lan Phương - Data Analytics"/>
 
 <a href="https://github.com/xtames910">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=7DFFB0&center=true&vCenter=true&width=780&height=50&lines=Hello+World!+I+am+Lan+Phuong;Business+Data+Analytics+Student;Turning+raw+data+into+insights;PRESS+START+TO+CONTINUE..." alt="typing animation"/>
@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ### 👩‍💻 Business Data Analytics Student
 
@@ -35,7 +35,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="assets/divider.svg" width="100%" alt=""/>
+<img src="divider.svg" width="100%" alt=""/>
 
 ### ⚡ Stats
 
@@ -50,7 +50,7 @@
 
 <div align="center">
 
-<img src="assets/snake.svg" width="100%" alt="pixel snake"/>
+<img src="snake.svg" width="100%" alt="pixel snake"/>
 
 <br/>
 
