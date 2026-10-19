@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Lan Phương - Data Analytics"/>
+<img src="banner.svg" width="100%" alt="Lan Phương"/>
 
 <a href="https://github.com/xtames910">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=7DFFB0&center=true&vCenter=true&width=780&height=50&lines=Hello+World!+I+am+Lan+Phuong;Business+Data+Analytics+Student;Turning+raw+data+into+insights;PRESS+START+TO+CONTINUE..." alt="typing animation"/>
