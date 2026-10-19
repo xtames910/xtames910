@@ -1,38 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=230&section=header&text=Hi%20there%2C%20I'm%20Phuong&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Analyst%20%C2%B7%20ML%20Explorer%20%C2%B7%20Insight%20Hunter&descSize=17&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00F0FF&height=150&section=header" width="100%" alt="header"/>
 
-<a href="https://github.com/xtames910">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=620&height=36&lines=Turning+raw+data+into+models+people+can+trust;Cleaning+data+so+you+do+not+have+to;It+works+on+my+machine;SELECT+insight+FROM+chaos%3B" alt="typing"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=18&duration=2400&pause=900&color=FFD400&width=700&height=50&center=true&vCenter=true&lines=PLAYER+1+%3A+PHUONG;CLASS+%3A+DATA+%26+ML+EXPLORER;GOAL+%3A+DATA+INTO+INSIGHT;PRESS+START+TO+CONTINUE" alt="title"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2200&pause=1000&color=3FB950&background=0D1117&multiline=true&repeat=true&width=440&height=120&lines=%3E%3E%3E+import+pandas+as+pd;%3E%3E%3E+df.insights()++%23+loading...;%3E%3E%3E+bug+%3D+fix(coffee+%2B+3am);%3E%3E%3E+print(%22ship+it%22)" alt="terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=11&duration=3000&pause=2500&color=00F0FF&width=520&height=30&center=true&vCenter=true&lines=SCORE+000094+++LIVES+x3+++LEVEL+01" alt="hud"/>
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lan-phuong-5b0a08392/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:phuongbtl0910@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xtames910)
-[![Open to](https://img.shields.io/badge/Open%20to-Data%20%26%20ML%20roles-1f6feb?style=for-the-badge)](mailto:phuongbtl0910@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-FF2E97?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=120A2E)](https://www.linkedin.com/in/lan-phuong-5b0a08392/)
+[![Email](https://img.shields.io/badge/EMAIL-7B2FF7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=120A2E)](mailto:phuongbtl0910@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-00F0FF?style=for-the-badge&logo=github&logoColor=white&labelColor=120A2E)](https://github.com/xtames910)
+[![Open to](https://img.shields.io/badge/OPEN%20TO-DATA%20%26%20ML%20ROLES-FFD400?style=for-the-badge&labelColor=120A2E&color=FFD400)](mailto:phuongbtl0910@gmail.com)
 
 </div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=300&height=40&repeat=false&lines=%F0%9F%9B%B0%EF%B8%8F+About+me" alt="About me"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=FF2E97&width=270&height=40&vCenter=true&repeat=false&lines=LEVEL+1+%3A+ABOUT" alt="LEVEL 1 : ABOUT"/>
 
-- 📊 I treat every problem as a pipeline: define the target, split without leakage, benchmark, then audit
-- 🔭 Working on **time-series deep learning**, **anomaly detection** and **responsible ML**
-- ⚖️ I run a fairness check on every model I build, not just the ones about people
-- 🌱 Currently leveling up **SQL** and **Tableau**, from database to dashboard
+- 📊 Every problem is a pipeline: define the target, split without leakage, benchmark, then audit
+- 🔭 Exploring **time-series deep learning**, **anomaly detection** and **responsible ML**
+- ⚖️ A fairness check goes on every model I build, not just the ones about people
+- 🌱 Leveling up **SQL** and **Tableau**, from database to dashboard
 - 📍 Ha Noi, Vietnam
-- ☕ Fuel: coffee. Side effects: bugs that turn into features
+- ☕ Power-up: coffee. Side effect: bugs that turn into features
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=300&height=40&repeat=false&lines=%F0%9F%8F%86+Highlights" alt="Highlights"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=FFD400&width=206&height=40&vCenter=true&repeat=false&lines=HIGH+SCORES" alt="HIGH SCORES"/>
 
 <div align="center">
 
@@ -44,9 +42,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=300&height=40&repeat=false&lines=%F0%9F%9A%80+Projects" alt="Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=00F0FF&width=126&height=40&vCenter=true&repeat=false&lines=STAGES" alt="STAGES"/>
 
-| Project | Stack | What happened |
+| Stage | Stack | Boss defeated |
 | :-- | :-- | :-- |
 | 📉 **[finenet](https://github.com/xtames910/finenet)**<br/>Stock anomaly detection, Vietnamese market | `Python` `TensorFlow` `statsmodels` | Rebuilt FineNet (dilated CNN + BiGRU) on ACB Bank prices. Caught **94%** of anomalies at 1.0σ vs **32%** for the best baseline |
 | ⚖️ **[Adult-Income](https://github.com/xtames910/Adult-Income)**<br/>Income prediction and fairness audit | `scikit-learn` `Fairlearn` `SHAP` | Leakage-safe Random Forest, AUC 0.924. Parity gap **0.154 → 0.004** for 2.2 pts of accuracy, and I report what it did not fix |
@@ -54,7 +52,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=300&height=40&repeat=false&lines=%F0%9F%9B%A0%EF%B8%8F+Tech+stack" alt="Tech stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=FF2E97&width=174&height=40&vCenter=true&repeat=false&lines=POWER-UPS" alt="POWER-UPS"/>
 
 <div align="center">
 
@@ -70,7 +68,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=360&height=40&repeat=false&lines=%F0%9F%90%8D+Contribution+snake" alt="Snake"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=7B2FF7&width=190&height=40&vCenter=true&repeat=false&lines=SNAKE+MODE" alt="SNAKE MODE"/>
 
 <div align="center">
   <picture>
@@ -82,23 +80,27 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=1400&pause=100000&color=58A6FF&width=300&height=40&repeat=false&lines=%F0%9F%93%8A+GitHub+stats" alt="Stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=1500&pause=100000&color=FFD400&width=222&height=40&vCenter=true&repeat=false&lines=PLAYER+STATS" alt="PLAYER STATS"/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtames910&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" width="48%" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtames910&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="48%" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=xtames910&show_icons=true&hide_border=false&bg_color=120A2E&title_color=FF2E97&text_color=FFFFFF&icon_color=00F0FF&border_color=7B2FF7&card_width=400" width="48%" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtames910&layout=compact&hide_border=false&bg_color=120A2E&title_color=FF2E97&text_color=FFFFFF&border_color=7B2FF7&card_width=400" width="48%" alt="languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=xtames910&theme=tokyonight&hide_border=true" width="70%" alt="streak"/>
+  <img src="https://streak-stats.demolab.com/?user=xtames910&background=120A2E&ring=FF2E97&fire=FFD400&currStreakLabel=00F0FF&sideLabels=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9B8FC7&border=7B2FF7" width="70%" alt="streak"/>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=xtames910&label=Profile%20Views&color=1f6feb&style=flat-square" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=xtames910&label=PLAYERS%20VISITED&color=7B2FF7&labelColor=120A2E&style=flat-square" alt="views"/>
 </div>
 
+<br/>
+
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=14&duration=2400&pause=900&color=FFD400&width=560&height=40&center=true&vCenter=true&lines=CONTINUE%3F+10+9+8+...;INSERT+COIN+TO+HIRE+ME;THANKS+FOR+PLAYING" alt="continue"/>
 
 <br/>
 
 <sub><i>"In God we trust. All others must bring data."</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:1f6feb,100:8957e5&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E97,50:7B2FF7,100:00F0FF&height=120&section=footer&animation=twinkling" width="100%" alt="footer"/>
 
 </div>
