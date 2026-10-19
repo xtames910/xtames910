@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="banner.svg" width="100%" alt="Lan Phương"/>
+<img src="banner.svg" width="100%" alt="Lan Phương - Data Analytics"/>
 
 <a href="https://github.com/xtames910">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=7DFFB0&center=true&vCenter=true&width=780&height=50&lines=Hello+World!+I+am+Lan+Phuong;Business+Data+Analytics+Student;Turning+raw+data+into+insights;PRESS+START+TO+CONTINUE..." alt="typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=7DFFB0&center=true&vCenter=true&width=780&height=50&lines=Hi,+I+am+Lan+Phuong;Data+Analytics+%7C+Business+Intelligence+%7C+Machine+Learning;Turning+raw+data+into+actionable+insights" alt="typing animation"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=xtames910&label=PLAYERS+ONLINE&color=7dffb0&style=for-the-badge" alt="views"/>
@@ -12,19 +12,21 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-### 👩‍💻 About me
+### 👩‍💻 About Me
 
-- 🔭 Currently learning **SQL, Python, Machine Learning, BI**
-- 💬 Ask me about **Data Analysis, Python, SQL, Excel...**
-- 🎯 Interested in **Data Analyst · Business Intelligence · ML**
-- 📫 Reach me: **phuongbtl0910@gmail.com**
+- 📊 Focused on **Data Analytics, Business Intelligence and Machine Learning**
+- 🔍 Hands-on with **data cleaning, visualization and predictive modeling**
+- 💡 I turn raw data into **clear, actionable insights** for business decisions
+- 🛠️ Main tools: **Python, SQL, Excel, Tableau**
+- 🤝 Open to opportunities in **Data Analytics & BI**
+- 📫 Contact: **phuongbtl0910@gmail.com**
 
 ### 🔗 Connect with me
 
 <a href="https://www.linkedin.com/in/lan-phuong-5b0a08392/"><img src="https://img.shields.io/badge/LinkedIn-Lan%20Phuong-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 <a href="mailto:phuongbtl0910@gmail.com"><img src="https://img.shields.io/badge/Email-phuongbtl0910%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-### 🛠️ Languages and Tools
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -37,7 +39,7 @@
 
 <img src="divider.svg" width="100%" alt=""/>
 
-### ⚡ Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -46,7 +48,7 @@
 
 </div>
 
-### 🐍 My Contribution
+### 🐍 Activity
 
 <div align="center">
 
@@ -54,7 +56,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4000&pause=1500&color=FFD23F&center=true&vCenter=true&width=780&height=40&lines=In+God+we+trust.+All+others+must+bring+data.;Thanks+for+visiting!+GAME+OVER...+or+CONTINUE%3F" alt="quote"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=4000&pause=1500&color=FFD23F&center=true&vCenter=true&width=780&height=40&lines=In+God+we+trust.+All+others+must+bring+data.;Thanks+for+visiting!+Let+us+connect." alt="quote"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%" alt="footer"/>
 
