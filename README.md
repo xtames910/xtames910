@@ -29,7 +29,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=DCE6FF&width=710&height=285&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+Every+problem+is+a+pipeline%3A+define+the+target%2C+split+without;++leakage%2C+benchmark+against+baselines%2C+then+audit+the+result.;%3E+Exploring%3A+time-series+deep+learning%2C+anomaly+detection%2C;++responsible+and+explainable+ML.;%3E+Rule+%231%3A+a+fairness+check+goes+on+every+model+I+build%2C;++not+only+the+ones+about+people.;%3E+Leveling+up%3A+SQL+and+Tableau%2C+from+database+to+dashboard.;%3E+Base%3A+Ha+Noi%2C+Vietnam.+++Fuel%3A+coffee.;%3E+Side+effect%3A+bugs+that+quietly+turn+into+features." alt="> Every problem is a pipeline: define the target, split without"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=DCE6FF&width=710&height=285&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+Every+problem+is+a+pipeline%3A+define+the+target%2C+split+without;++leakage%2C+benchmark+against+baselines%2C+then+audit+the+result.;%3E+Exploring%3A+time-series+deep+learning%2C+anomaly+detection%2C;++responsible+and+explainable+ML.;%3E+Rule+%231%3A+a+fairness+check+goes+on+every+model+I+build%2C;++not+only+the+ones+about+people.;%3E+Leveling+up%3A+SQL+and+Tableau%2C+from+database+to+dashboard.;%3E+Base%3A+Ha+Noi%2C+Vietnam.+++Fuel%3A+coffee.;%3E+Side+effect%3A+bugs+that+quietly+turn+into+features." alt="> Every problem is a pipeline: define the target, split without"/>
 
 <br/><br/>
 
@@ -37,7 +37,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=19&duration=700&pause=100000&color=FBD000&width=736&height=208&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+0.94+++++recall+on+ACB+anomalies+%28best+baseline%3A+0.32%29;%3E+86.69%25+++income+accuracy+on+30%2C162+census+records%2C+AUC+0.924;%3E+0.004++++sex+parity+gap+after+mitigation%2C+down+from+0.154;%3E+50%2C000+++Walmart+customers+sorted+into+4+segments;%3E+383++++++weeks+of+ACB+prices%2C+2017+to+March+2025;%3E+3++++++++anomaly+thresholds+tested%3A+0.5%2C+1.0%2C+1.5+sigma" alt="> 0.94     recall on ACB anomalies (best baseline: 0.32)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=19&duration=700&pause=5000&color=FBD000&width=736&height=208&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+0.94+++++recall+on+ACB+anomalies+%28best+baseline%3A+0.32%29;%3E+86.69%25+++income+accuracy+on+30%2C162+census+records%2C+AUC+0.924;%3E+0.004++++sex+parity+gap+after+mitigation%2C+down+from+0.154;%3E+50%2C000+++Walmart+customers+sorted+into+4+segments;%3E+383++++++weeks+of+ACB+prices%2C+2017+to+March+2025;%3E+3++++++++anomaly+thresholds+tested%3A+0.5%2C+1.0%2C+1.5+sigma" alt="> 0.94     recall on ACB anomalies (best baseline: 0.32)"/>
 
 <br/><br/>
 
@@ -53,7 +53,7 @@
 
 <br/>
 
-<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=DCE6FF&width=786&height=342&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Forecast+next+week%27s+return+AND+flag+abnormal+weeks%2C;++++++++++without+ever+peeking+at+the+future.;%3E+DATA+++ACB+Bank+daily+prices%2C+2017+to+March+2025+%28383+weeks%29.;++++++++++A+week+is+abnormal+beyond+0.5+%2F+1.0+%2F+1.5+std+devs+of+ROI.;%3E+MODEL++FineNet+%28Tsai+et+al.%2C+RecSys+%2719%29%2C+rebuilt+by+me%3A;++++++++++dilated+CNN+%2B+BiGRU%2C+two+heads%3A+next+ROI+%2B+abnormal+flag.;%3E+RULES++MinMax+scaling%2C+windows+of+10+steps%2C+time-ordered+80%2F20;++++++++++split.+Rivals%3A+ARIMA+%28walk-forward%29%2C+GRU%2C+stacked+LSTM.;%3E+BOSS+++Recall+0.94+at+1.0+sigma+vs+0.32+for+the+best+rival.;++++++++++Precision+0.50+vs+0.56%3A+it+rarely+misses%2C+some+false+alarms.;%3E+LIMIT++One+stock%2C+not+the+~300+of+the+paper.+Next%3A+more+tickers." alt="> QUEST  Forecast next week's return AND flag abnormal weeks,"/></a>
+<a href="https://github.com/xtames910/finenet"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=DCE6FF&width=786&height=342&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Forecast+next+week%27s+return+AND+flag+abnormal+weeks%2C;++++++++++without+ever+peeking+at+the+future.;%3E+DATA+++ACB+Bank+daily+prices%2C+2017+to+March+2025+%28383+weeks%29.;++++++++++A+week+is+abnormal+beyond+0.5+%2F+1.0+%2F+1.5+std+devs+of+ROI.;%3E+MODEL++FineNet+%28Tsai+et+al.%2C+RecSys+%2719%29%2C+rebuilt+by+me%3A;++++++++++dilated+CNN+%2B+BiGRU%2C+two+heads%3A+next+ROI+%2B+abnormal+flag.;%3E+RULES++MinMax+scaling%2C+windows+of+10+steps%2C+time-ordered+80%2F20;++++++++++split.+Rivals%3A+ARIMA+%28walk-forward%29%2C+GRU%2C+stacked+LSTM.;%3E+BOSS+++Recall+0.94+at+1.0+sigma+vs+0.32+for+the+best+rival.;++++++++++Precision+0.50+vs+0.56%3A+it+rarely+misses%2C+some+false+alarms.;%3E+LIMIT++One+stock%2C+not+the+~300+of+the+paper.+Next%3A+more+tickers." alt="> QUEST  Forecast next week's return AND flag abnormal weeks,"/></a>
 
 <br/><br/>
 
@@ -65,7 +65,7 @@
 
 <br/>
 
-<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=DCE6FF&width=721&height=285&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Is+an+income+model+fair+to+everyone+it+scores%3F;%3E+DATA+++UCI+Adult%2C+30%2C162+records%2C+target%3A+income+above+%2450K.;%3E+MODEL++Leakage-safe+Random+Forest%3A+86.69%25+accuracy%2C+AUC+0.924.;%3E+AUDIT++Fairlearn+%2B+SHAP+on+sex%2C+race+and+the+two+combined.;++++++++++Who+does+the+model+get+wrong+more+often%3F;%3E+FIX++++ExponentiatedGradient+shrank+the+sex+Demographic+Parity;++++++++++gap+from+0.154+to+0.004+for+2.2+pts+of+accuracy.;%3E+HONEST+Equalized+Odds+and+intersectional+gaps+still+remain%2C;++++++++++and+I+report+them+instead+of+hiding+them." alt="> QUEST  Is an income model fair to everyone it scores?"/></a>
+<a href="https://github.com/xtames910/Adult-Income"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=DCE6FF&width=721&height=285&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Is+an+income+model+fair+to+everyone+it+scores%3F;%3E+DATA+++UCI+Adult%2C+30%2C162+records%2C+target%3A+income+above+%2450K.;%3E+MODEL++Leakage-safe+Random+Forest%3A+86.69%25+accuracy%2C+AUC+0.924.;%3E+AUDIT++Fairlearn+%2B+SHAP+on+sex%2C+race+and+the+two+combined.;++++++++++Who+does+the+model+get+wrong+more+often%3F;%3E+FIX++++ExponentiatedGradient+shrank+the+sex+Demographic+Parity;++++++++++gap+from+0.154+to+0.004+for+2.2+pts+of+accuracy.;%3E+HONEST+Equalized+Odds+and+intersectional+gaps+still+remain%2C;++++++++++and+I+report+them+instead+of+hiding+them." alt="> QUEST  Is an income model fair to everyone it scores?"/></a>
 
 <br/><br/>
 
@@ -77,7 +77,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=DCE6FF&width=710&height=285&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Which+kinds+of+Walmart+shoppers+exist%2C+and+what;++++++++++should+we+do+for+each+of+them%3F;%3E+DATA+++50%2C000+Kaggle+customer+records%2C+made+comparable;++++++++++%28cleaning%2C+encoding%2C+scaling%29+before+clustering.;%3E+MODEL++K-Means%2C+k+%3D+4+picked+by+elbow+%2B+silhouette%2C+PCA+view.;%3E+RESULT+Segments+defined+by+discount+use+x+repeat+purchase%2C;++++++++++each+profiled+by+categories+and+payment+method.;%3E+MOVES++Loyalty+perks+for+some+groups%2C+remarketing+for+others.;%3E+ROLE+++Led+a+team+of+3+%28course+project%29." alt="> QUEST  Which kinds of Walmart shoppers exist, and what"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=DCE6FF&width=710&height=285&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+QUEST++Which+kinds+of+Walmart+shoppers+exist%2C+and+what;++++++++++should+we+do+for+each+of+them%3F;%3E+DATA+++50%2C000+Kaggle+customer+records%2C+made+comparable;++++++++++%28cleaning%2C+encoding%2C+scaling%29+before+clustering.;%3E+MODEL++K-Means%2C+k+%3D+4+picked+by+elbow+%2B+silhouette%2C+PCA+view.;%3E+RESULT+Segments+defined+by+discount+use+x+repeat+purchase%2C;++++++++++each+profiled+by+categories+and+payment+method.;%3E+MOVES++Loyalty+perks+for+some+groups%2C+remarketing+for+others.;%3E+ROLE+++Led+a+team+of+3+%28course+project%29." alt="> QUEST  Which kinds of Walmart shoppers exist, and what"/>
 
 <br/><br/>
 
@@ -85,17 +85,25 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,sklearn,pandas,numpy,jupyter,git,github,vscode&theme=dark" alt="tech stack"/>
+<img src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,sklearn,git,github,vscode&theme=dark" alt="tech stack"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=7FD0FF&width=775&height=141&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+TOOLKIT++Python%2C+Pandas%2C+NumPy%2C+scikit-learn%2C+TensorFlow%2FKeras%2C;+++++++++++statsmodels%2C+Fairlearn%2C+SHAP%2C+SciPy%2C+Matplotlib%2C+Seaborn;%3E+ALSO+++++Excel+%28PivotTables%2C+XLOOKUP%29%2C+Tableau+%28basic%29%2C+SQL+%28basic%29;%3E+TOOLS++++Git%2C+GitHub%2C+Google+Colab%2C+Jupyter+Notebook" alt="> TOOLKIT  Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras,"/>
+<img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=7FD0FF&width=775&height=141&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+TOOLKIT++Python%2C+Pandas%2C+NumPy%2C+scikit-learn%2C+TensorFlow%2FKeras%2C;+++++++++++statsmodels%2C+Fairlearn%2C+SHAP%2C+SciPy%2C+Matplotlib%2C+Seaborn;%3E+ALSO+++++Excel+%28PivotTables%2C+XLOOKUP%29%2C+Tableau+%28basic%29%2C+SQL+%28basic%29;%3E+TOOLS++++Git%2C+GitHub%2C+Google+Colab%2C+Jupyter+Notebook" alt="> TOOLKIT  Python, Pandas, NumPy, scikit-learn, TensorFlow/Keras,"/>
 
 <br/>
 
-<a href="https://coursera.org/share/1052d4e2e8c62db46c92b1cdb9a899c4"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=FBD000&width=732&height=54&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+CERT++Google+Data+Analytics+Professional+Certificate+%28Coursera%29" alt="> CERT  Google Data Analytics Professional Certificate (Coursera)"/></a>
+<a href="https://coursera.org/share/1052d4e2e8c62db46c92b1cdb9a899c4"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=FBD000&width=732&height=54&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+CERT++Google+Data+Analytics+Professional+Certificate+%28Coursera%29" alt="> CERT  Google Data Analytics Professional Certificate (Coursera)"/></a>
 <br/>
-<a href="https://coursera.org/share/1793b19f01393786232477e5001f2e1b"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=100000&color=FBD000&width=591&height=54&multiline=true&repeat=false&vCenter=true&background=0B1B3A&lines=%3E+CERT++Business+Intelligence+Certificate+%28Coursera%29" alt="> CERT  Business Intelligence Certificate (Coursera)"/></a>
+<a href="https://coursera.org/share/1793b19f01393786232477e5001f2e1b"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&weight=500&size=18&duration=700&pause=5000&color=FBD000&width=591&height=54&multiline=true&vCenter=true&background=0B1B3A&lines=%3E+CERT++Business+Intelligence+Certificate+%28Coursera%29" alt="> CERT  Business Intelligence Certificate (Coursera)"/></a>
 
 <br/><br/>
 </div>
